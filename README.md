@@ -1,5 +1,6 @@
 Preparations
-I Before executing the run_analysis.R script, the following files need to be unzipped to the working directory:
+
+##Before executing the run_analysis.R script, the following files need to be unzipped to the working directory:
 1. acitivity_labels.txt
 2. features.txt
 3. subject_test.txt
@@ -9,11 +10,12 @@ I Before executing the run_analysis.R script, the following files need to be unz
 7. y_test.txt
 8. y_train.txt
 
-II Packages need to be installed
+##Packages need to be installed
 1. plyr
 2. reshape2
 
 Description of how the script works
+
 The function run_analysis.R does the following upon execution:
 1. Reads in and combines test and training data for subjects
 2. Reads in and combines test and training data for features
