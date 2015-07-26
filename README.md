@@ -1,6 +1,6 @@
-##Preparations
+##Preparations before executing run_analysis.R script
 
-###Before executing the run_analysis.R script, the following files need to be unzipped to the working directory:
+###Following files need to be unzipped to the working directory:
 1. acitivity_labels.txt
 2. features.txt
 3. subject_test.txt
